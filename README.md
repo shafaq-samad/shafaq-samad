@@ -18,17 +18,17 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 💻 I build full-stack web apps — from React/TypeScript front ends to backend logic and everything in between
-- 🛠️ Currently sharpening my skills through hands-on project sprints (see the `nexsoft_task` series below)
-- 🌱 Comfortable across the stack: TypeScript, JavaScript, HTML/CSS, C#, and Python
-- 🎯 I like turning practical, everyday problems — productivity tools, e-commerce flows, dashboards — into working products
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/shafaqabdulsamad/) or check out my [portfolio](https://shafaq-portfolio.netlify.app/)
+- I build full-stack web apps — from React/TypeScript front ends to backend logic and everything in between
+- Currently sharpening my skills through hands-on project sprints (see the `nexsoft_task` series below)
+- Comfortable across the stack: TypeScript, JavaScript, HTML/CSS, C#, and Python
+- I like turning practical, everyday problems — productivity tools, e-commerce flows, dashboards — into working products
+- Reach me on [LinkedIn](https://www.linkedin.com/in/shafaqabdulsamad/) or check out my [portfolio](https://shafaq-portfolio.netlify.app/)
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -49,7 +49,7 @@
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -67,26 +67,26 @@
 | [**Bloom Petal**](https://github.com/shafaq-samad/bloom-petal) | Web application project | TypeScript |
 
 <details>
-<summary>🧪 Practice & Training Projects (nexsoft task series)</summary>
+<summary>Practice & Training Projects (nexsoft task series)</summary>
 <br>
 
 A series of focused build sprints covering common real-world app patterns:
 
-- 🧮 [Calculator](https://github.com/shafaq-samad/nexsoft_task04_Calculator)
-- 📝 [Blog Platform](https://github.com/shafaq-samad/nexsoft_task10_blog)
-- 🛒 [E-commerce App](https://github.com/shafaq-samad/nexsoft_task11_E-commerce)
-- 💰 [Expense Tracker](https://github.com/shafaq-samad/nexsoft_task09_ExpenseTracker)
-- 🔌 [Socket/Real-time App](https://github.com/shafaq-samad/nexsoft_task12_socket)
-- 📊 [Admin Dashboard](https://github.com/shafaq-samad/nexsoft_task08_admindashboard)
-- ⛅ [Weather App](https://github.com/shafaq-samad/nexsoft_task05_Weather)
-- ✅ [To-Do App](https://github.com/shafaq-samad/nexsoft_task03_ToDo)
-- 🖼️ [Landing Page](https://github.com/shafaq-samad/nexsoft_task02_landingPage)
+- [Calculator](https://github.com/shafaq-samad/nexsoft_task04_Calculator)
+- [Blog Platform](https://github.com/shafaq-samad/nexsoft_task10_blog)
+- [E-commerce App](https://github.com/shafaq-samad/nexsoft_task11_E-commerce)
+- [Expense Tracker](https://github.com/shafaq-samad/nexsoft_task09_ExpenseTracker)
+- [Socket/Real-time App](https://github.com/shafaq-samad/nexsoft_task12_socket)
+- [Admin Dashboard](https://github.com/shafaq-samad/nexsoft_task08_admindashboard)
+- [Weather App](https://github.com/shafaq-samad/nexsoft_task05_Weather)
+- [To-Do App](https://github.com/shafaq-samad/nexsoft_task03_ToDo)
+- [Landing Page](https://github.com/shafaq-samad/nexsoft_task02_landingPage)
 
 </details>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=shafaq-samad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
