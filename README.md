@@ -53,18 +53,18 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [**Bloom Petal**](https://github.com/shafaq-samad/bloom-petal) | Web application project | TypeScript |
+| [**Movie Search**](https://github.com/shafaq-samad/moviesearch-shafaq) | Movie search & discovery app | TypeScript |
+| [**AlgoPuzzleBoard**](https://github.com/shafaq-samad/AlgoPuzzleBoard) | Algorithm/puzzle solving board app | C# | 
+| [**StudyMate AI**](https://github.com/shafaq-samad/StudyMate_AI) | AI-assisted study companion tool | HTML/JS |
+| [**Task Management App**](https://github.com/shafaq-samad/Taskmanagement-shafaq) | Task tracking and management tool | TypeScript |
+| [**Notes Management**](https://github.com/shafaq-samad/notes-management-shafaq) | Note-taking application | TypeScript |
+| [**Brewtopia**](https://github.com/shafaq-samad/Brewtopia) | Coffee/beverage themed web app | HTML |
 | [**ShopFlow**](https://github.com/shafaq-samad/ShopFlow) | Full ecommerce SaaS solution to launch, manage, and scale online stores | HTML/CSS/JS |
 | [**Mini Productivity Dashboard**](https://github.com/shafaq-samad/Mini-Productivity-Dashboard-) | All-in-one productivity app — To-Do, Notes, Pomodoro Timer & Habit Tracker with localStorage persistence | HTML/CSS/JS |
 | [**Divine Dishes**](https://github.com/shafaq-samad/Divine-Dishes) | Recipe-sharing platform with a clean, modern UI and seamless UX | HTML/CSS/JS |
 | [**KBC Game**](https://github.com/shafaq-samad/KBC-game) | Windows Forms quiz game replicating "Kaun Banega Crorepati" | C# |
 | [**Detective Story**](https://github.com/shafaq-samad/Detective-Story) | OOP-based Windows Forms detective/mystery game with interrogation & puzzle mechanics | C# |
-| [**StudyMate AI**](https://github.com/shafaq-samad/StudyMate_AI) | AI-assisted study companion tool | HTML/JS |
-| [**Movie Search**](https://github.com/shafaq-samad/moviesearch-shafaq) | Movie search & discovery app | TypeScript |
-| [**Task Management App**](https://github.com/shafaq-samad/Taskmanagement-shafaq) | Task tracking and management tool | TypeScript |
-| [**Notes Management**](https://github.com/shafaq-samad/notes-management-shafaq) | Note-taking application | TypeScript |
-| [**Brewtopia**](https://github.com/shafaq-samad/Brewtopia) | Coffee/beverage themed web app | HTML |
-| [**AlgoPuzzleBoard**](https://github.com/shafaq-samad/AlgoPuzzleBoard) | Algorithm/puzzle solving board app | HTML |
-| [**Bloom Petal**](https://github.com/shafaq-samad/bloom-petal) | Web application project | TypeScript |
 
 <details>
 <summary>Practice & Training Projects (nexsoft task series)</summary>
@@ -88,25 +88,14 @@ A series of focused build sprints covering common real-world app patterns:
 
 ### GitHub Stats
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shafaq-samad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafaq-samad&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
+<div align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=shafaq-samad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shafaq-samad&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafaq-samad&theme=tokyonight&hide_border=true" />
 </div>
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shafaq-samad&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=shafaq-samad&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-⭐️ From [shafaq-samad](https://github.com/shafaq-samad)
-
 </div>
